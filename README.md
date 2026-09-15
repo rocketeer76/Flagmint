@@ -1,3 +1,5 @@
+[![Flagmint](public/media/social/og-card.png)](https://flagmintapp.netlify.app/)
+
 # Flagmint
 
 Feature flags for real teams.
